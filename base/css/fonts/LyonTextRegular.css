@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LyonTextRegular';
+    src: url('fonts/LyonTextRegular.eot');
+    src: url('fonts/LyonTextRegular.eot') format('embedded-opentype'),
+         url('fonts/LyonTextRegular.woff2') format('woff2'),
+         url('fonts/LyonTextRegular.woff') format('woff'),
+         url('fonts/LyonTextRegular.ttf') format('truetype'),
+         url('fonts/LyonTextRegular.svg#LyonTextRegular') format('svg');
+}

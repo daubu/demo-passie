@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LyonTextBlackItalic';
+    src: url('fonts/LyonTextBlackItalic.eot');
+    src: url('fonts/LyonTextBlackItalic.eot') format('embedded-opentype'),
+         url('fonts/LyonTextBlackItalic.woff2') format('woff2'),
+         url('fonts/LyonTextBlackItalic.woff') format('woff'),
+         url('fonts/LyonTextBlackItalic.ttf') format('truetype'),
+         url('fonts/LyonTextBlackItalic.svg#LyonTextBlackItalic') format('svg');
+}
